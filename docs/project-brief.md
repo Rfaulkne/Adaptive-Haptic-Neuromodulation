@@ -40,13 +40,22 @@ Optional exploratory measures:
 ## Team contribution
 
 ### Haptics
-Defines the tactile parameter space and psychophysical design.
+Defines the tactile parameter space, psychophysical design, and qualities of the haptic intervention.
 
 ### Neuroscience
 Defines the pain paradigm, relevant mechanisms, measurements, and interpretation.
 
-### Mechatronics
-Builds and characterizes a reproducible stimulation platform and data-acquisition system.
+### Mechatronics / Design & Integration
+Bridges the experimental intervention with the person using it. This role develops the physical prototype while focusing on **wearability, interaction, accessibility, comfort, system integration, and technology adoption**. It considers not only whether a device can technically deliver the stimulus, but how the intervention should be embodied and experienced if it is ever to move beyond the laboratory.
+
+Relevant activities include:
+
+- Human-centered product and interaction design
+- Wearable form-factor development
+- Integration of actuators, sensors, electronics, and controls
+- Rapid prototyping and iteration with users
+- Usability and accessibility evaluation
+- Identifying practical barriers to acceptance and sustained use
 
 ## What is explicitly out of scope for the first study
 
