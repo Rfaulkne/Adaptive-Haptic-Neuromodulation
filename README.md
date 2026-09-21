@@ -8,7 +8,7 @@ Pain is not determined solely by tissue damage or peripheral nerve activity. It 
 
 Existing work in vibration analgesia, conditioned pain modulation, and remote electrical neuromodulation suggests that peripheral stimulation can influence pain processing. What remains less well understood is whether the **design of mechanical touch itself** — its location, intensity, rhythm, movement, and spatial structure — can be engineered to produce stronger or more reliable effects.
 
-This creates a research opportunity at the intersection of **haptics, neuroscience, and mechatronics**: using touch not only to communicate information, but as a controlled experimental input to study and potentially influence sensory processing.
+This creates a research opportunity at the intersection of **haptics, neuroscience, and design-led technology integration**: using touch not only to communicate information, but as a controlled experimental input to study and potentially influence sensory processing, while considering how such technology could ultimately become usable and adoptable outside the lab.
 
 Longer-term possibilities include personalized stimulation, wearable systems, migraine and chronic pain applications, sensory dysfunction, and adaptive or closed-loop neuromodulation. The immediate project is intentionally narrower: establish whether a reproducible effect exists and characterize it well.
 
@@ -49,14 +49,15 @@ The intended team combines three complementary areas:
 - Physiological / neurophysiological measurement
 - Interpretation of individual variability
 
-### Mechatronics / Prototyping
-- Rapid electromechanical prototyping
-- Actuator integration
-- Embedded control
-- Wearable system development
-- Sensors and data acquisition
-- Mechanical fabrication
-- Experimental hardware
+### Mechatronics / Design & Integration
+- Human-centered product and interaction design
+- Wearable form factor and body integration
+- User experience and interaction flows
+- Translation of experimental technology into usable prototypes
+- Rapid physical and electromechanical prototyping
+- Integration of sensing, actuation, electronics, and interfaces
+- Usability, accessibility, comfort, and long-term wear considerations
+- Exploration of barriers to adoption and everyday use
 
 ## Relation to our research environment
 
@@ -66,7 +67,7 @@ For **haptics**, the project extends tactile-interface research beyond communica
 
 For **neuroscience**, it provides a programmable method for investigating how non-nociceptive sensory input interacts with pain perception and endogenous modulation.
 
-For **mechatronics**, it creates a wearable-interface challenge in which actuator behavior, body coupling, sensing, repeatability, and human perception must be considered together.
+For **mechatronics, design, and integration**, it asks how an experimentally effective intervention can be embodied as a coherent human-facing system: where it sits on the body, how it is controlled, how users understand and tolerate it, and what would make the technology realistic to adopt beyond a laboratory study.
 
 ```text
 Haptic design
@@ -74,6 +75,8 @@ Haptic design
 Controlled physical stimulation
       ↓
 Neural + perceptual response
+      ↓
+User experience + system integration
       ↓
 Measurement + interpretation
       ↓
