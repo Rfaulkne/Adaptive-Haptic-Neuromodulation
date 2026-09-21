@@ -98,6 +98,7 @@ Only then does personalization or closed-loop intervention become a meaningful n
 
 ## Repository map
 
+- [Grassroots proposal template](docs/grassroots-proposal-template.md)
 - [Project brief](docs/project-brief.md)
 - [Research questions](docs/research-questions.md)
 - [Literature map](docs/literature-map.md)
